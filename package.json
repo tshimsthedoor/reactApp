@@ -1,0 +1,25 @@
+{
+  "name": "reactapp",
+  "version": "1.0.0",
+  "description": "let do coffee react app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://tshimsthedoor:tA242e1985$@github.com/tshimsthedoor/reactApp.git"
+  },
+  "author": "Tresor Tshimanga Kazadi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tshimsthedoor/reactApp/issues"
+  },
+  "homepage": "https://github.com/tshimsthedoor/reactApp#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "mongodb": "^3.2.3",
+    "mongoose": "^5.5.5"
+  }
+}
